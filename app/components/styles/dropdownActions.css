@@ -1,0 +1,8 @@
+.delete-option {
+    color:red;
+}
+
+.delete-option:hover{
+    color: #FFFFFF;
+    background-color: #e00909;
+}
